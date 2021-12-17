@@ -1,3 +1,3 @@
 # Clock
 
-A round analog clock: round-clock-analog.netlify.app
+A round analog clock: https://round-clock-analog.netlify.app
